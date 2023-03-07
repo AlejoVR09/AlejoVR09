@@ -4,4 +4,7 @@
 
 ![logo](https://firebasestorage.googleapis.com/v0/b/proyecto1cesdeav.appspot.com/o/Ashen-one.jpg?alt=media&token=6c55f0ac-6cf8-47b6-b751-da394460500c)
 
+https://gist.github.com/rxaviers/7360908
+https://github.com/Ileriayo/markdown-badges
+
 
